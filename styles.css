@@ -2,6 +2,11 @@ html {
     scroll-behavior: smooth;
 }
 
+@font-face {
+    font-family: "Quache";
+    src: url(./Quache-BoldExp_PERSONAL.ttf);
+}
+
 body {
     margin: 0 auto;
     width: 100%;

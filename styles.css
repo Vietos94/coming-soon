@@ -1,0 +1,61 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0 auto;
+    width: 100%;
+    color: #444444;
+    background: #fef9e9;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+/* Hero section */
+.hero {
+    height: 100%;
+    margin-top: 5rem;
+}
+
+.logo {
+    max-height: 5.3125rem;
+    margin: auto;
+    display: block;
+}
+
+.hero p {
+    font-family: "Quache", Helvetica, sans-serif;
+    font-size: 10rem;
+    margin: 5rem;
+    line-height: 18rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Footer */
+
+footer {
+    width: 100%;
+    flex-shrink: 0;
+    padding: 2rem 0;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: .8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    padding-right: 1rem;
+    height: 1.5rem;
+}
+
+.ball {
+    position: absolute;
+    border-radius: 100%;
+    opacity: 0.7;
+}

@@ -23,7 +23,7 @@ main {
 .logo {
     max-height: 5.3125rem;
 /*     margin: auto; */
-    display: block;
+/*     display: block; */
 }
 
 .hero p {
